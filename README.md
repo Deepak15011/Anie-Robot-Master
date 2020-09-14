@@ -1,4 +1,4 @@
-(https://https://telegra.ph/file/08378a67671671c1567fd.jpg)
+![Anie](https://https://telegra.ph/file/08378a67671671c1567fd.jpg)
 # Anie Robot 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/43872978473d46a0a44de96c96e62e27)](https://app.codacy.com/manual/Avishekbhattacharjee/Anie-Robot?utm_source=github.com&utm_medium=referral&utm_content=Avishekbhattacharjee/Anie-Robot&utm_campaign=Badge_Grade_Dashboard) 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
