@@ -7,9 +7,9 @@
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database. This is the Most Powerful Telegram Bot. You Can Clone The Bot At Your Own Risks.
 
-Can be found on telegram as [Aniebot](https://t.me/anierobot).
+Can be found on telegram as 
 
-The Support group can be reached out to at [Support](https://t.me/AnieSupport), where you can ask for help about @aniebot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at  where you can ask for help about , discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 # Fork It With Your Own Risks
 
@@ -17,7 +17,7 @@ The Support group can be reached out to at [Support](https://t.me/AnieSupport), 
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prince1567/Anie-Robot-Master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Deepak15011/super-bot)
 
 ### Configuration
 
