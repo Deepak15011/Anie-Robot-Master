@@ -5,7 +5,7 @@ from tg_bot import dispatcher
 from tg_bot.modules.disable import DisableAbleCommandHandler
 
 SFW_STRINGS = (
-    "Owww ... Such a stupid idiot.",
+    "odu myre.",
     "Don't drink and type.",
     "I think you should go home or better a mental asylum.",
     "Command not found. Just like your brain.",
